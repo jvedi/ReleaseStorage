@@ -1,5 +1,0 @@
-defaults:
-  - scope:
-      path: "assets/"
-    values:
-      image: true
